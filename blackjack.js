@@ -36,9 +36,3 @@ hitButton.addEventListener('click', function() {
   images.setAttribute('src', './resources/5_of_clubs.png');
   playerHand.append(images)
 })
-
-var kingOfHearts = {
-  point: 13, suit: 'hearts'
-}     
-
-var aceOfDiamonds = {point: 1, suit: 'diamonds'};
